@@ -13,7 +13,7 @@ def reads(fname):
 
 setup(
     name='django_markdownplus',
-    version='0.1.0',
+    version='0.1.2',
     description='tiny django app for supporting markdown template tag',
     long_description=reads('README.rst'),
     license=reads('LICENSE'),

@@ -1,5 +1,5 @@
-django-markdownplus v. 0.1.0
-############################
+django-markdownplus
+###################
 
 .. _description:
 

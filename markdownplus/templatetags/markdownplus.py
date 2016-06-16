@@ -25,7 +25,7 @@ from django import template
 from django.template.defaultfilters import linebreaksbr
 from django.utils.safestring import mark_safe
 
-from django_markdownplus.markdownplus.core.markdown import markdown as md
+from django_markdownplus.markdownplus.markdown import markdown as md
 
 register = template.Library()
 
